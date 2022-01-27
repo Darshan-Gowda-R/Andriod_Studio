@@ -6,4 +6,4 @@
 
 ![test image size]<img src="images/sample2.png" width="200" height="390">
 
-![test image size]<img src="images/sample6.png" width="200" height="390">
+<img src="images/sample6.png" width="200" height="390">
